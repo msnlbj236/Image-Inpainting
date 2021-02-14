@@ -1,0 +1,7 @@
+M1 is the notation of method 1,
+M2 is the notation of method 2,
+M3 is the notation of method 3,
+
+I use these notation to classify the main code and result of 3 methods.
+
+code of nested function: shrink1, A_multi and AT_multi(self-built); swt2 and iswt2(given by instructor).
